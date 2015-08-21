@@ -1,5 +1,5 @@
 ---
-title: "Visualisation with recharts"
+title: "Visualization with recharts"
 author: "[Ben Chen](mailto:benjamin0901@gmail.com)"
 date: '`r Sys.Date()`'
 output: 
